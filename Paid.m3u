@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+=================================
 <<<<<< Bangladeshi channels= 41 >>>>>>
 =================================
 
@@ -136,6 +136,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
+
+=================================
 <<<<<< Indian Bangla channels 16 >>>>>>
 =================================
 
@@ -195,6 +197,9 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 =================================================
 
 
+
+
+==========================
 <<<<<< HINDI CHANNEL >>>>>>
 ==========================
 
@@ -382,6 +387,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 =================================================
 
 
+
+==========================
 <<<<<< English Channels >>>>>>
 ==========================
 
@@ -393,7 +400,7 @@ https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 =================================================
 
 
-
+===============================
 <<<<<< Indian Music Channels >>>>>>
 ===============================
 
@@ -419,9 +426,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC",Music Mastii
-#https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/07cc2c26-8410-4318-8b0d-49b418e4855f/3.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/f8e6c0d9-5e45-4cb5-837d-4c66b4a3813a/1.m3u8
+https://d1taaads3ztvmu.cloudfront.net/120723/mastii/chunklist.m3u8
 
 
 
@@ -519,6 +524,95 @@ https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="KIDS", Tonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+
+
+
+=================================================
+
+
+==========================
+<<<<<< Sports Channels >>>>>>
+==========================
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6HnyQYv/A-SPORTS-HD.png" group-title="SPORTS",A SPORTS HD
+http://cdnd.sonyplex.com:8090/hls/ASportsHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjsCZSbB/WILLOW-CRICKET-HD.png" group-title="SPORTS",WILLOW CRICKET
+http://cdnd.sonyplex.com:8090/hls/willowcrickethd.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNB5kRKY/T-Sports-HD.png" group-title="SPORTS",T SPORTS HD
+#https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
+#https://iptv.prisma.net.bd/hls/stream4/playlist.m3u8
+#https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/130714.ts
+http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
+
+
+
+=================================================
+
+
+===============================
+<<<<<< Documentary Channels >>>>>>
+===============================
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="Documentary",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/43.png" group-title="documentary",discovery hd
+https://edge2.roarzone.info:8444/roarzone/bk/83/index.m3u8?token=3dd9f72f73550451229e172f36d0144ea34466b0-0c3f706a184809725221be6bc25a5934-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryscience.png" group-title="documentary",discovery science
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_science/index.m3u8?token=00d6bddde2e46e2db0951c17bc583c9804e656ac-d85c41b994644dd42b321a767cf52646-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryturbo.png" group-title="DOCUMENTARY",discovery turbo
+https://edge2.roarzone.info:8444/roarzone/toffee/discovery_turbo/index.m3u8?token=fa8f029d367f3b906f54da32b6f6255b465e33fc-b79069e04d33e76576eb917981b1cf66-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryhdInvestigation.png" group-title="DOCUMENTARY",discovery hd investigation
+https://edge2.roarzone.info:8444/roarzone/toffee/discovary_investigation_hd/index.m3u8?token=5aff4db5fda3b7cd5fd8734342d46abdbe0333e4-b92520eebdb73e5a81fd9d90c6886e1b-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/cnn.png" group-title="DOCUMENTARY",cnn
+https://edge2.roarzone.info:8444/roarzone/toffee/cnn/index.m3u8?token=2945547b5a8facea2622fd0968b869dae4e7e06f-58d964f19346be530ff1c01f142dbea2-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/44.png" group-title="DOCUMENTARY",sony bbc earth hd
+https://edge2.roarzone.info:8444/roarzone/bk/44/index.m3u8?token=39189d7e3b3e07737d2483544a96093a9cb29233-f369ca218dfe5148d73ce8d4f1d8e659-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/35.png" group-title="DOCUMENTARY",natgeo
+https://edge2.roarzone.info:8444/roarzone/bk/35/index.m3u8?token=b3229b7a828d7af5c4bfa5493224dfd83497cf29-80f4d415a9a41a1b97c4991297dd3382-1768820107-1768816507
+
+
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/animalplanet.png" group-title="DOCUMENTARY",animal planet
+https://edge2.roarzone.info:8444/roarzone/toffee/animal_planet_hd/index.m3u8?token=1a9502288b5b511a2cdeb1bc2b567a4d84e6ac4c-4efd017df590726d166f987ce0d96f6a-1768820107-1768816507
+
+
+#EXTINF:-1 tvg-name="Insight" group-title="DOCUMENTARY",Insight
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="REAL WILD" group-title="DOCUMENTARY",REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 
 
