@@ -568,47 +568,6 @@ https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=c5
 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",[BD] Animal Planet HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",[BD] Animal Planet
-https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",[BD] Discovery
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",[BD] Discovery HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",[BD] Discovery Science
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",[BD] Discovery Turbo
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",[BD] Investigation Discovery HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
-
+http://cdn1.amrbd.com:8082/ANIMAL.PLANET.HD/tracks-v1a1/mono.m3u8?token=045879e54d44989467eef82e94ead06c7e3d1d61-403a99cb690e794967a60168850484db-1768864678-1768853878
 
 
