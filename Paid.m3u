@@ -554,6 +554,11 @@ http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="sports",ten cricket
+https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=c5eab6336a2c1733cea31988523f9d5ed141dca9-09752eadbd2934f430f0c85c922de156-1768848067-1768844467
+
+
+
 =================================================
 
 
@@ -562,58 +567,48 @@ http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
 ===============================
 
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="Documentary",Adventure Earth
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",[BD] Animal Planet HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",[BD] Animal Planet
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",[BD] Discovery
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",[BD] Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",[BD] Discovery Science
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
 
 
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/43.png" group-title="documentary",discovery hd
-https://edge2.roarzone.info:8444/roarzone/bk/83/index.m3u8?token=3dd9f72f73550451229e172f36d0144ea34466b0-0c3f706a184809725221be6bc25a5934-1768820107-1768816507
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",[BD] Discovery Turbo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
 
 
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryscience.png" group-title="documentary",discovery science
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_science/index.m3u8?token=00d6bddde2e46e2db0951c17bc583c9804e656ac-d85c41b994644dd42b321a767cf52646-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryturbo.png" group-title="DOCUMENTARY",discovery turbo
-https://edge2.roarzone.info:8444/roarzone/toffee/discovery_turbo/index.m3u8?token=fa8f029d367f3b906f54da32b6f6255b465e33fc-b79069e04d33e76576eb917981b1cf66-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/discoveryhdInvestigation.png" group-title="DOCUMENTARY",discovery hd investigation
-https://edge2.roarzone.info:8444/roarzone/toffee/discovary_investigation_hd/index.m3u8?token=5aff4db5fda3b7cd5fd8734342d46abdbe0333e4-b92520eebdb73e5a81fd9d90c6886e1b-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/cnn.png" group-title="DOCUMENTARY",cnn
-https://edge2.roarzone.info:8444/roarzone/toffee/cnn/index.m3u8?token=2945547b5a8facea2622fd0968b869dae4e7e06f-58d964f19346be530ff1c01f142dbea2-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/44.png" group-title="DOCUMENTARY",sony bbc earth hd
-https://edge2.roarzone.info:8444/roarzone/bk/44/index.m3u8?token=39189d7e3b3e07737d2483544a96093a9cb29233-f369ca218dfe5148d73ce8d4f1d8e659-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/35.png" group-title="DOCUMENTARY",natgeo
-https://edge2.roarzone.info:8444/roarzone/bk/35/index.m3u8?token=b3229b7a828d7af5c4bfa5493224dfd83497cf29-80f4d415a9a41a1b97c4991297dd3382-1768820107-1768816507
-
-
-
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/animalplanet.png" group-title="DOCUMENTARY",animal planet
-https://edge2.roarzone.info:8444/roarzone/toffee/animal_planet_hd/index.m3u8?token=1a9502288b5b511a2cdeb1bc2b567a4d84e6ac4c-4efd017df590726d166f987ce0d96f6a-1768820107-1768816507
-
-
-#EXTINF:-1 tvg-name="Insight" group-title="DOCUMENTARY",Insight
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="REAL WILD" group-title="DOCUMENTARY",REAL WILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",[BD] Investigation Discovery HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 10)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1769008614:KeyName=prod_linear:Signature=S0qlEEcuEiDXsFMZkzpqI8TLYS03gTg8RB-TM8IhtZ3a8ct0WlkKWJcHZWKmsBs1YBa1KENLyWvJeRcS2oHXBw"}
 
 
 
