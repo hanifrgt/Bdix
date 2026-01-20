@@ -567,35 +567,54 @@ https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=c5
 ===============================
 
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/ANIMAL%20PLANET%20HD1745038671.png",[BD] Animal Planet HD
-http://cdn1.amrbd.com:8082/ANIMAL.PLANET.HD/tracks-v1a1/mono.m3u8?token=2716a0a1755a30dc42b1ebf2bee811878081a2af-9ded55aa56f72baabd583232b6265b8b-1768897637-1768886837&remote=no_check_ip
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxNtzQpY/Discovery.png" group-title="DOCUMENTARY",DISCOVEY
+http://poketporota.noobmaster.xyz:8080/DISCOVERYHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bjkmNwgy/Discovery-HD.png" group-title="DOCUMENTARY",DISCOVERY HD
+https://padmaonline.duckdns.org:8088/DiscoveryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="DOCUMENTARY",DISCOVERY INVESTIGATION
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_527.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qjp8JfWw/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARY",DISCOVERY SCIENCE
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_568.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzQtDTyB/DISCOVERY-TURBO.png" group-title="DOCUMENTARY",DISCOVERY TURBO
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_541.m3u8
 
 
 
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/BBC%20EARTH%20HD1745150455.png",[BD] BBC EARTH HD
-http://cdn1.amrbd.com:8082/BBC.Earth.HD/tracks-v1a1/mono.m3u8?token=74c7d5a6bdde1e476c3be09d711aa7d73694a6ee-0261e356fd1bba83d4974f0e5bb4a19b-1768899988-1768889188&remote=no_check_ip
-
-
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/discovery%20hd.png",[BD] Discovery HD
-http://cdn1.amrbd.com:8082/DISCOVERY.HD/tracks-v1a1/mono.m3u8?token=f23cafec7bfebe359ad85888e7193b305be0e57a-abbec00e575cecc065709692ab2f6360-1768897840-1768887040&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw8K8x29/HISTORY-TV18-HD.png" group-title="DOCUMENTARY",HISTORY TV18 HD
+https://mini.allinonereborn.fun/jiotv-www/app/ts_live_146.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C59bmVF5/ANIMAL-PLANET.png" group-title="DOCUMENTARY",ANIMAL PLANET
+http://cdnd.sonyplex.com:8090/hls/AnimalPlanetHD.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/NATGEO%20HD1745038634.png",[BD] NATGEO HD
-http://cdn1.amrbd.com:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=5293b90057675829e20b2a3c3d9c82b4829cea36-cb73376fca5d34f1545350e518c51de0-1768900145-1768889345&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="DOCUMENTARY",ANIMAL PLANT HD
+http://cdnd.sonyplex.com:8090/hls/AnimalPlanetHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1JpCCQ8N/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARY",NAT GEO
+https://falconftp.noobmaster.xyz/NATGEOHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/84jb0JR0/NATIONAL-GEOGRAPHIC-HD.png" group-title="DOCUMENTARY",NAT GEO HD
+http://poketporota.noobmaster.xyz:8080/NATGEOHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wFxKDBgp/NATIONAL-GEOGRAPHIC-WILD.png" group-title="DOCUMENTARY",NAT GEO WILD
+https://falconftp.noobmaster.xyz/NATGEOWILDHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6RnwmRZ4/NATIONAL-GEOGRAPHIC-WILD-HD.png" group-title="DOCUMENTARY",NAT GEO WILD HD
+http://cdnd.sonyplex.com:8090/hls/NatGeoWild.m3u8
 
 
 
-
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/NATGEO%20WILD%20HD1745038542.png",[BD] NATGEO WILD HD
-http://cdn1.amrbd.com:8082/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8?token=8960ee061c7feeb6448823f89cc26e247399910c-4fd742cd9fea7a41564d9c3cdd0317e7-1768900087-1768889287&remote=no_check_ip
-
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="DOCUMENTARY",SONY BBC EARTH HD
+http://cdnd.sonyplex.com:8090/hls/bbcearthhd.m3u8
 
 
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://amrbd.com/assets/images/SONY%20BBC%20EARTH%20HD1745031522.png",[BD] BBC EARTH HD
-http://cdn1.amrbd.com:8082/SONY.BBC.EARTH.HD/tracks-v1a1/mono.m3u8?token=b7011150c3fe075f5126635a61b47d89593c937f-602cc2f6490f9b3161d71c7c8d9904d7-1768900495-1768889695&remote=no_check_ip
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/13c04e44967d653c70eac9670b47fa5d" group-title="DOCUMENTARY",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
