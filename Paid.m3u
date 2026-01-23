@@ -142,17 +142,17 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 =================================
 
 
-#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/fdWwTTrt/ZEE-BANGLA.png" group-title="Indian Bangla",ZEE BANGLA
-http://poketporota.noobmaster.xyz:8080/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/fdWwTTrt/ZEE-BANGLA.png" group-title="Indian Bangla",ZEE BANGLA HD
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Indian Bangla",ZEE BANGLA HD
 https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="Indian Bangla",STAR JALSHA
-http://poketporota.noobmaster.xyz:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="Indian Bangla",STAR JALSHA HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4nSTfQCM/STAR-JALSHA-HD.png" group-title="Indian Bangla",STAR JALSHA HD
-https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4nSTfQCM/STAR-JALSHA-HD.png" group-title="Indian Bangla",STAR JALSHA FHD
+http://103.182.170.32:8888/play/a046
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/SLyewdDmEINNszTLkuJugC1KNvVuTyXOPJkNH962ayYZJhHmezu984IytQS9IW4wb6Dv=w300" group-title="Indian Bangla",GOPAL BHAR FHD 24
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
@@ -187,8 +187,7 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="Indian Bangla",COLORS BANGLA CINEMA
 http://poketporota.noobmaster.xyz:8080/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png" group-title="Indian Bangla",DD BANGLA
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png" group-title="Indian Bangla",NEWS18 BANGLA
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
