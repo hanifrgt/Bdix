@@ -557,11 +557,23 @@ http://cdnd.sonyplex.com:8090/hls/willowcrickethd.m3u8
 http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T sports
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="Sports",Ten Cricket
-https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=c5eab6336a2c1733cea31988523f9d5ed141dca9-09752eadbd2934f430f0c85c922de156-1768848067-1768844467
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/starsports2hd.png" group-title="Sports", Star Sports 2 HD
+http://198.195.239.50:8095/bdixbd.net_t.me/tvhoichoi24/video.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg" group-title="Sports", Star Sports Select 1 HD
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-2.jpg" group-title="Sports", Star Sports Select 2 HD
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/willow.jpg" group-title="Sports", Willow HD
+http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 
 =================================================
 
@@ -572,12 +584,8 @@ https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=c5
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxNtzQpY/Discovery.png" group-title="Documentary",DISCOVEY
-http://poketporota.noobmaster.xyz:8080/DISCOVERYHD/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bjkmNwgy/Discovery-HD.png" group-title="Documentary",DISCOVERY HD
-https://padmaonline.duckdns.org:8088/DiscoveryHD/index.m3u8
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Documentary",DISCOVERY INVESTIGATION
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_527.m3u8
@@ -594,9 +602,6 @@ https://mini.allinonereborn.fun/jiotv-www/app/ts_live_541.m3u8
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_146.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C59bmVF5/ANIMAL-PLANET.png" group-title="Documentary",ANIMAL PLANET
-http://cdnd.sonyplex.com:8090/hls/AnimalPlanetHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",ANIMAL PLANT HD
 http://cdnd.sonyplex.com:8090/hls/AnimalPlanetHD.m3u8
@@ -677,9 +682,7 @@ http://65.108.239.207/bbc/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
-#https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+http://198.195.239.50:8095/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 
 
