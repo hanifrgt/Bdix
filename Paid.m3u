@@ -495,6 +495,36 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-id="10545" tvg-chno="036" tvg-name="b4u-music" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp" group-title="Hindi Music", B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="15037" tvg-chno="038" tvg-name="ptc-music" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp" group-title="Hindi Music", PTC MUSIC
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="10605" tvg-chno="039" tvg-name="9x-jalwa" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp" group-title="Hindi Music", 9X JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="10606" tvg-chno="040" tvg-name="9x-jhakaas" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp" group-title="Hindi Music", 9X JHAKAAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="10607" tvg-chno="041" tvg-name="9x-tashan" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp" group-title="Hindi Music", 9X TASHAN
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="10591" tvg-chno="042" tvg-name="9xm" tvg-id="abusaeeidx" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Hindi Music", 9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+
+
 =================================================
 
 
@@ -626,8 +656,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", 4k Travel Tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", 4k Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
 
 
@@ -653,6 +683,10 @@ http://198.195.239.50:8095/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary", Relaxing Rain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1VhdUFSHUGQpMh2n7dNnSk2pT5O818XeFHej-DhDpp9I4dkik8y_Ko9Z&s=10" group-title="Documentary", Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
 
 
 
