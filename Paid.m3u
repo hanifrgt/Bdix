@@ -1,8 +1,11 @@
 #EXTM3U
 
 =================================
-<<<<<< Bangladeshi channels= 41 >>>>>>
+<<<<<< Bangladeshi channels >>>>>>
 =================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="Bangladesh",RAJDHANI TV HD
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9H65SwCG/ATN-BANGLA-HD.png" group-title="Bangladesh",ATN BANGLA HD
@@ -124,7 +127,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 =================================
-<<<<<< Indian Bangla channels 16 >>>>>>
+<<<<<< Indian Bangla channels >>>>>>
 =================================
 
 
@@ -175,8 +178,10 @@ http://poketporota.noobmaster.xyz:8080/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/spHQvPTh/NEWS18-BANGLA.png" group-title="Indian Bangla",NEWS18 BANGLA
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5e7e35a1e640364eb38c06c67dee7179.png" group-title="Indian Bangla",Akash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+
+
 
 
 =================================================
@@ -607,6 +612,9 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Documentary",HISTORY TV 18
+https://live.thebosstv.com:30443/dwlive/HISTORY/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",ANIMAL PLANT HD
 http://cdnd.sonyplex.com:8090/hls/AnimalPlanetHD.m3u8
@@ -696,7 +704,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 
-================================================
+=================================================
 
 
 ====================
@@ -706,3 +714,21 @@ Islamic Channels
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+
+=================================================
+
+
+
+================
+Pakistani Channels
+================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/12c5d6197996691.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="Pakistani",Express TV
+https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
+
+
+=================================================
+
+End
