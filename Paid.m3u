@@ -138,14 +138,14 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 
-#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Indian Bangla",ZEE BANGLA HD
-https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_hd/4c6b794c-983a-47b7-b1b9-2b32eefe0825/0.m3u8
+#EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Indian Bangla",ZEE BANGLA FHD
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84GB2CpG/STAR-JALSHA.png" group-title="Indian Bangla",STAR JALSHA HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4nSTfQCM/STAR-JALSHA-HD.png" group-title="Indian Bangla",STAR JALSHA FHD
-http://103.182.170.32:8888/play/a046
+http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/SLyewdDmEINNszTLkuJugC1KNvVuTyXOPJkNH962ayYZJhHmezu984IytQS9IW4wb6Dv=w300" group-title="Indian Bangla",GOPAL BHAR FHD 24
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
@@ -153,12 +153,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W4Lh50kc/SONY-AATH-HD.png" group-title="Indian Bangla",SONY AATH 
 https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZk2HJh/JALSHA-MOVIES.png" group-title="Indian Bangla",JALSHA MOVIES
-http://poketporota.noobmaster.xyz:8080/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tw4Pdcb7/JALSHA-MOVIES-HD.png" group-title="Indian Bangla",JALSHA MOVIES HD
-#https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
-http://103.179.25.147:8181/JalshaMv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tw4Pdcb7/JALSHA-MOVIES-HD.png" group-title="Indian Bangla",JALSHA MOVIES FHD
+http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="Indian Bangla",ENTER10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -171,14 +169,14 @@ http://poketporota.noobmaster.xyz:8080/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VWH2BpsS/ZEE-BANGLA-CINEMA.png" group-title="Indian Bangla",ZEE BANGLA CINEMA
 http://poketporota.noobmaster.xyz:8080/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/93VnpvTN/COLORS-BANGLA.png" group-title="Indian Bangla",COLORS BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/93VnpvTN/COLORS-BANGLA.png" group-title="Indian Bangla",COLORS BANGLA HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?cb=20210420120554" group-title="Indian Bangla",COLORS BANGLA HD
-https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?cb=20210420120554" group-title="Indian Bangla",COLORS BANGLA FHD
+http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="Indian Bangla",COLORS BANGLA CINEMA
-http://poketporota.noobmaster.xyz:8080/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
 
 
 
@@ -614,6 +612,9 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 ===============================
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentary",NAT GEO FHD
+http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bjkmNwgy/Discovery-HD.png" group-title="Documentary",DISCOVERY HD
 http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
@@ -720,8 +721,16 @@ Islamic Channels
 ====================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV BANGLA FHD
+http://203.18.159.115/PEACETVBANGLA/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/ca/64/16/ca6416315c005672bfccd0b67e0a2f97.jpg" group-title="Islamic",MADANI TV HD
+http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
 
 
 =================================================
