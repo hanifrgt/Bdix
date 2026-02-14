@@ -130,9 +130,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 <<<<<< Indian Bangla channels >>>>>>
 =================================
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6c0a0c4ad28bb240e130c6a5436e2a3.png" group-title="Indian Bangla",RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/fdWwTTrt/ZEE-BANGLA.png" group-title="Indian Bangla",ZEE BANGLA HD
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+
 
 #EXTINF:-1 tvg-id="404001" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Indian Bangla",ZEE BANGLA HD
 https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_hd/4c6b794c-983a-47b7-b1b9-2b32eefe0825/0.m3u8
@@ -193,6 +197,9 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 <<<<<< HINDI CHANNEL >>>>>>
 ==========================
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="Indian",DANGAL TV
+https://live.thebosstv.com:30443/dwlive/DANGAL-TV/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian",ZEE TV
@@ -695,14 +702,15 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
 #http://tv.cloudcdn.me/live.ts?channelId=50&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="English News",DW NEWS
+https://live.thebosstv.com:30443/dwlive/DW-NEWS/chunks.m3u8
 
 =================================================
 
@@ -728,6 +736,9 @@ Pakistani Channels
 #EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/12c5d6197996691.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg" group-title="Pakistani",Express TV
 https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="Pakistani",HUM SITARAY
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
 
 =================================================
 
