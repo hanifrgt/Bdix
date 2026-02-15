@@ -530,6 +530,27 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 ========================
 
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/8/85/ETV_Bal_Bharat_-_logo.png/revision/latest?cb=20230528185621" group-title="Kids",BAL BHARAT
+http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3dd2e26ab832cfe736739b86d57d21e9.png" group-title="Kids",NICK BANGLA
+http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1280px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids",NICK JR
+http://203.18.159.115/NICKJR/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/8/89/POGO-logo.png/revision/latest?cb=20230407015035" group-title="Kids",POGO
+http://203.18.159.115/POGO/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438" group-title="Kids",SONIC BANGLA
+http://203.18.159.115/SONIC/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Kids", Moto Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
@@ -626,6 +647,10 @@ http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
 ===============================
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentary",NAT GEO WILD FHD
+http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentary",NAT GEO FHD
 http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
 
@@ -648,8 +673,8 @@ http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Documentary",SONY BBC EARTH HD
-http://cdnd.sonyplex.com:8090/hls/bbcearthhd.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-logo="https://i.ibb.co/2YNY8jdf/Untitled-459-x-459-px.png" group-title="Documentary",SONY BBC EARTH FHD
+http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -687,12 +712,12 @@ https://jmp2.uk/str-5407.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Documentary",BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Documentary",BBC EARTH FHD
+http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Documentary",BBC Earth
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png" group-title="Documentary",BBC EARTH HD
 http://65.108.239.207/bbc/index.m3u8
 
 
