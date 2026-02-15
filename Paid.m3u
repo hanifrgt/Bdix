@@ -530,6 +530,9 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 ========================
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/c/cb/Cartoon_Network_HD%2B_-_logo.png/revision/latest?cb=20230428094120" group-title="Kids",CARTOON NETWORK HD+
+http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/8/85/ETV_Bal_Bharat_-_logo.png/revision/latest?cb=20230528185621" group-title="Kids",BAL BHARAT
 http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
