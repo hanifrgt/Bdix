@@ -200,85 +200,6 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 https://live.thebosstv.com:30443/dwlive/DANGAL-TV/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Indian",ZEE TV
-http://poketporota.noobmaster.xyz:8080/ZEETVHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JR5VtWDJ/ZEE-TV-HD.png" group-title="Indian",ZEE TV HD
-https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FFnZ5F7/SONY-ENTERTAINMENT-TELEVISION.png" group-title="Indian",SONY ENTERNMENT
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/224.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png" group-title="Indian",SONY ENTERNMENT HD
-http://poketporota.noobmaster.xyz:8080/SONYENTHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcCM4FWq/STAR-PLUS.png" group-title="Indian",STAR PLUS
-http://poketporota.noobmaster.xyz:8080/STARPLUSHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="Indian",STAR PLUS HD
-https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png" group-title="Indian",STAR BHARAT
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98855.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PZvWHvfM/STAR-BHARAT-HD.png" group-title="Indian",STAR BHARAT HD
-http://poketporota.noobmaster.xyz:8080/STARBHARATHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png" group-title="Indian",COLORS HD
-https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="412170" tvg-logo="https://i.ibb.co/BV8vbTgh/SONY-MAX.png" group-title="Indian",SONY MAX
-http://poketporota.noobmaster.xyz:8080/SONYMAXHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="412170" tvg-logo="https://i.ibb.co/PvZ3RxWc/SONY-MAX-HD.png" group-title="Indian",SONY MAX HD
-https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FLt5BgtG/STAR-GOLD.png" group-title="Indian",STAR GOLD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98858.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2qVdgrK/STAR-GOLD-HD.png" group-title="Indian",STAR GOLD HD
-http://poketporota.noobmaster.xyz:8080/STARGOLDHD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xtwQSVQq/STAR-GOLD-2-HD.png" group-title="Indian",STAR GOLD 2 HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/157081.ts
-
-
-
-#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://i.ibb.co/WWhzt8Cb/STAR-GOLD-SELECT.png" group-title="Indian",STAR GOLD SELECT
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/210.ts
-
-
-
-#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png" group-title="Indian",STAR GOLD SELECT HD
-http://poketporota.noobmaster.xyz:8080/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7HVM0vq/SUN-TV-HD.png" group-title="Indian",SUN TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -377,6 +298,48 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/160x0-icon.png" group-title="Hindi",COLORS CINEPLEX FHD
+http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png" group-title="Hindi",COLORS FHD
+http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png" group-title="Hindi",SONY ENT FHD
+http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvWHvfM/STAR-BHARAT-HD.png" group-title="Hindi",STAR BHARAT FHD
+http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2qVdgrK/STAR-GOLD-HD.png" group-title="Hindi",STAR GOLD FHD
+http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png" group-title="Hindi",STAR GOLD SELECT FHD
+http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="Hindi",STAR PLUS FHD
+http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" group-title="Hindi",ZEE CINEMA FHD
+http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/153x0-icon.png" group-title="Hindi",ZEE TV FHD
+http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="Hindi",ZING FHD
+http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
+
+
 
 
 =================================================
@@ -386,6 +349,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 ==========================
 <<<<<< English Movies Channels >>>>>>
 ==========================
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg" group-title="English Movies",ZEE AXN FHD
+http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2Bd3SgH/STAR-MOVIES-HD.png" group-title="English Movies",STAR MOVIES HD
@@ -628,12 +596,12 @@ http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/bdixbd.net_t.me/tvhoichoi24/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg" group-title="Sports", Star Sports Select 1 HD
-http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg" group-title="Sports", Star Sports Select 1 FHD
+http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-2.jpg" group-title="Sports", Star Sports Select 2 HD
-http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-2.jpg" group-title="Sports", Star Sports Select 2 FHD
+http://203.18.159.115/STARSPORTSSELECT2HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/willow.jpg" group-title="Sports", Willow HD
