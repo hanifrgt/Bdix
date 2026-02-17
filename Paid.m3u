@@ -298,45 +298,45 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/160x0-icon.png" group-title="Hindi",COLORS CINEPLEX FHD
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/160x0-icon.png" group-title="Indian",COLORS CINEPLEX FHD
 http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png" group-title="Hindi",COLORS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YSR6QdP/COLORS-HD.png" group-title="Indian",COLORS FHD
 http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png" group-title="Hindi",SONY ENT FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png" group-title="Indian",SONY ENT FHD
 http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvWHvfM/STAR-BHARAT-HD.png" group-title="Hindi",STAR BHARAT FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvWHvfM/STAR-BHARAT-HD.png" group-title="Indian",STAR BHARAT FHD
 http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2qVdgrK/STAR-GOLD-HD.png" group-title="Hindi",STAR GOLD FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2qVdgrK/STAR-GOLD-HD.png" group-title="Indian",STAR GOLD FHD
 http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png" group-title="Hindi",STAR GOLD SELECT FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png" group-title="Indian",STAR GOLD SELECT FHD
 http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="Hindi",STAR PLUS FHD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png" group-title="Indian",STAR PLUS FHD
 http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" group-title="Hindi",ZEE CINEMA FHD
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" group-title="Indian",ZEE CINEMA FHD
 http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/153x0-icon.png" group-title="Hindi",ZEE TV FHD
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/153x0-icon.png" group-title="Indian",ZEE TV FHD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="Hindi",ZING FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="Indian",ZING FHD
 http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
 
 
